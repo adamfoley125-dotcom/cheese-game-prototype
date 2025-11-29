@@ -5,7 +5,7 @@ It uses Firebase Firestore for realtime sync and anonymous authentication.
 
 ## How to use
 1. Create a Firebase project (see below).
-2. Update `index.html` by replacing the `FIREBASE_CONFIG_HERE` object with your Firebase config.
+2. Update `index.html` by replacing the `npm install firebase` object with your Firebase config.
 3. Deploy to Vercel (or Netlify) by connecting this GitLab repository.
 4. Open the live link on your phone and create/join rooms.
 
